@@ -1,0 +1,15 @@
+{
+  "name": "color_game",
+  "version": "1.0.0",
+  "description": "You will be presented with a RBG value of a color and you must guess the right color with its RGb value in the provided box. Each time you select a color, its will either disappear if you guessed it wrong or the remaining boxes will change its color according to the given RGB value.  ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kriti",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
